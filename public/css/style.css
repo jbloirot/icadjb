@@ -1,0 +1,32 @@
+body {
+    background-color: #1d1f20;
+}
+.card{
+ background-color: #2a2d2e;
+ color: rgb(241, 241, 241);
+}
+.btn-light {
+color: rgb(227, 225, 222);
+background-color: rgb(32, 35, 36);
+border-color: rgb(54, 58, 60);
+}
+.form-control {
+
+color: rgb(205, 201, 195);
+background-color: rgb(29, 31, 32);
+border-color: rgb(63, 68, 71);
+    
+}
+* {
+    color: aliceblue;
+    color-scheme: dark !important; 
+
+}
+footer {
+
+position:absolute;
+   bottom:0 ;
+   width: 100%;
+   left: 0;
+   border-top: black !important;
+}
